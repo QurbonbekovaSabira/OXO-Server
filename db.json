@@ -1,0 +1,407 @@
+{
+  "users": [
+    {
+      "email": "exaple@gmail.com",
+      "password": "$2a$10$9wOPMB9847j/hI0vCNIUlesE3uqWDAco7irtE5sz8FtjYk.M5B9zi",
+      "name": "Abdu",
+      "location": "Tashkent",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "email": "sarakim0224@gmail.com",
+      "firstName": "Sara",
+      "lastName": "Kim",
+      "ticketLink": "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg",
+      "password": "$2a$10$T3bN8slndf8gGMS2OxjRXe4oVo1bGfk4FHmwBXsNJLzgrqaDj9mjW",
+      "confirmPassword": "0000"
+    }
+  ],
+  "all": [
+    {
+      "id": "10",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/HomeProduct2.png",
+      "price": 23000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yakkasaroy",
+      "status": "Yangi",
+      "brand": "Xon Saroy",
+      "brandKey": "XonSaroy"
+    },
+    {
+      "id": "11",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/home.png",
+      "price": 23000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yakkasaroy",
+      "status": "Yangi",
+      "brand": "Xon Saroy",
+      "brandKey": "XonSaroy"
+    },
+    {
+      "id": "20",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/home.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yunusobod",
+      "status": "1 oy tutilgan",
+      "brand": "ASUS",
+      "brandKey": "ASUS"
+    },
+    {
+      "id": "30",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/carProduct.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Samarqand",
+      "status": "2020-yil",
+      "brand": "Chevrolet",
+      "brandKey": "Chevrolet"
+    },
+    {
+      "id": "40",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/t-short.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Yunusobod,Turkish Baby",
+      "status": "Yangi",
+      "brand": "Farfetch",
+      "brandKey": "Farfetch"
+    },
+    {
+      "id": "50",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/Lamp.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yunusobod",
+      "status": "Yangi",
+      "brand": "La Kandil",
+      "brandKey": "LaKandil"
+    }
+  ],
+  "home": [
+    {
+      "id": "10",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/HomeProduct2.png",
+      "price": 23000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yakkasaroy",
+      "status": "Yangi",
+      "brand": "Xon Saroy",
+      "brandKey": "XonSaroy"
+    },
+    {
+      "id": "11",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/home.png",
+      "price": 23000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yakkasaroy",
+      "status": "Yangi",
+      "brand": "Xon Saroy",
+      "brandKey": "XonSaroy"
+    }
+  ],
+  "hobbi": [
+    {
+      "id": "50",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/Lamp.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yunusobod",
+      "status": "Yangi",
+      "brand": "La Kandil",
+      "brandKey": "LaKandil"
+    }
+  ],
+  "mebel": [],
+  "cars": [
+    {
+      "id": "30",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/carProduct.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Samarqand",
+      "status": "2020-yil",
+      "brand": "Chevrolet",
+      "brandKey": "Chevrolet"
+    }
+  ],
+  "texno": [
+    {
+      "id": "20",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/home.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Tashkent, Yunusobod",
+      "status": "1 oy tutilgan",
+      "brand": "ASUS",
+      "brandKey": "ASUS"
+    }
+  ],
+  "children-for": [
+    {
+      "id": "40",
+      "userId": 2,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/OXO/product/t-short.png",
+      "price": 2000,
+      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi distinctio vel voluptates temporibus sit quae repudiandae dolor ea natus quisquam",
+      "location": "Yunusobod,Turkish Baby",
+      "status": "Yangi",
+      "brand": "Farfetch",
+      "brandKey": "Farfetch"
+    }
+  ],
+  "service": [],
+  "category": [
+    {
+      "id": "1",
+      "name": "Ko’chmas mulk",
+      "dataKey": "home",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/home.svg"
+    },
+    {
+      "id": "3",
+      "name": "Xobbi",
+      "dataKey": "hobbi",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/xobbi.svg"
+    },
+    {
+      "id": "4",
+      "name": "Mebel",
+      "dataKey": "mebel",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/mebel.svg"
+    },
+    {
+      "id": "5",
+      "name": "Transport",
+      "dataKey": "cars",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/transport.svg"
+    },
+    {
+      "id": "6",
+      "name": "Elektr jihozlari",
+      "dataKey": "texno",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/electr.svg"
+    },
+    {
+      "id": "7",
+      "name": "Bolalar uchun",
+      "dataKey": "children-for",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/bike.svg"
+    },
+    {
+      "id": "9",
+      "name": "Xizmatlar",
+      "dataKey": "service",
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/service.svg"
+    }
+  ],
+  "brand": [
+    {
+      "name": "Ko’chmas mulk",
+      "dataKey": "home",
+      "brands": [
+        {
+          "brand": "Xon Saroy",
+          "dataKey": "XonSaroy"
+        },
+        {
+          "brand": "Nur",
+          "dataKey": "Nur"
+        },
+        {
+          "brand": "Usta",
+          "dataKey": "Usta"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "yangi",
+            "2019-yil",
+            "2020-yil"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xobbi",
+      "dataKey": "hobbi",
+      "brands": [
+        {
+          "brand": "La Kandil",
+          "dataKey": "LaKandil"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "yangi",
+            "Ishlatilgan",
+            "2020-yil"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mebel",
+      "dataKey": "mebel",
+      "brands": [
+        {
+          "brand": "Dafna",
+          "dataKey": "Dafna"
+        },
+        {
+          "brand": "BMK",
+          "dataKey": "BMK"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "yangi",
+            "Ishlatilgan",
+            "2020-yil"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transport",
+      "dataKey": "cars",
+      "brands": [
+        {
+          "brand": "Chevrolet",
+          "dataKey": "Chevrolet"
+        },
+        {
+          "brand": "Kia",
+          "dataKey": "Kia"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "yangi",
+            "Ishlatilgan",
+            "2020-yil"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elektr jihozlari",
+      "dataKey": "texno",
+      "brands": [
+        {
+          "brand": "ASUS",
+          "dataKey": "ASUS"
+        },
+        {
+          "brand": "Shivaki",
+          "dataKey": "Shivaki"
+        },
+        {
+          "brand": "Artel",
+          "brandKey": "Artel"
+        },
+        {
+          "brand": "Samsung",
+          "dataKey": "Samsung"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "yangi",
+            "Ishlatilgan",
+            "2020-yil"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bolalar uchun",
+      "dataKey": "children-for",
+      "brands": [
+        {
+          "brand": "Farfetch",
+          "dataKey": "Farfetch"
+        },
+        {
+          "brand": "Солнышко",
+          "dataKey": "Солнышко"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "yangi",
+            "Ishlatilgan"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xizmatlar",
+      "dataKey": "service",
+      "brands": [
+        {
+          "brand": "Usta",
+          "dataKey": "usta"
+        }
+      ],
+      "attribut": [
+        {
+          "id": "2",
+          "name": "status",
+          "dataKey": "status",
+          "values": [
+            "master"
+          ]
+        }
+      ]
+    }
+  ]
+}
